@@ -10,7 +10,7 @@ N/A
 
 ## Usage
 
-The Prework Study Guide offers notes about 4 topics: HTML, CSS, JavaScript, and Git.  For suggestions on what to study first, open the Chrome DevTools by pressing "Command+Option+I" (MacOS) or "Control+Shift+I" (Windows).  A console panel should be open either below or to the side of the webpage in the browser.  A list of topics I have learned from the Preowkrk along with a random suggestion of what to study first should be visible.
+The Prework Study Guide offers notes about 4 topics: HTML, CSS, JavaScript, and Git.  For suggestions on what to study first, open the Chrome DevTools by pressing "Command+Option+I" (MacOS) or "Control+Shift+I" (Windows).  A console panel should be open either below or to the side of the webpage in the browser.  A list of topics I have learned from the Preowkrk along with a random suggestion of what to study first should be visible to the user.
 
 ## Credits
 
